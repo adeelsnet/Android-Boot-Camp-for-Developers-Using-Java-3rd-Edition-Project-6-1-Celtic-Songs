@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Celtic Sounds</string>
+    <string name="irish_jig">Play Irish Jig</string>
+    <string name="bagpipes_song">Play Bagpipes Song</string>
+    <string name="pause_irish_jig">Pause Irish Jig</string>
+    <string name="pause_bagpipes_song">Pause Bagpipes Song</string>
+    <string name="splash_screen_content_description">Spalsh Screen Celtic Sounds</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Celtic Songs'
+include ':app'
